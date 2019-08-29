@@ -1,0 +1,9 @@
+.widgetname{
+    
+}
+.btn-primary-scan {
+    width: 60px;
+    height: 40px;
+    background-image: url(BarcodeScannerForPhoneGap\ui\icon.png);
+    background-repeat: no-repeat;
+}
